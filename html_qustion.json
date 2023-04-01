@@ -1,0 +1,75 @@
+[
+    {
+        "titile":"What is the using of <br> tag on ",
+        "answer_1":"Make the font bold",
+        "answer_2":"Make space between the words",
+        "answer_3":"add a break line",
+        "answer_4":"mkae the text italic",
+        "right_answer":"add a break line"
+    },
+    {
+        "titile":"What is the using of <section><section> ",
+        "answer_1":"Create a mew file ",
+        "answer_2":"create new style file",
+        "answer_3":"create new section",
+        "answer_4":"mkae the text italic",
+        "right_answer":"create new section"
+    },
+    {
+        "titile":"what is the using of font-size proparty ",
+        "answer_1":"Make the font bold",
+        "answer_2":"change the font size",
+        "answer_3":"add a break line",
+        "answer_4":"mkae the text italic",
+        "right_answer":"change the font size"
+    },
+    {
+        "titile":"what is the using of background-color proparty ",
+        "answer_1":"Make the font bold",
+        "answer_2":"set the body color",
+        "answer_3":"add a break line",
+        "answer_4":"mkae the text italic",
+        "right_answer":"set the body color"
+    },
+    {
+        "titile":"what is the using of fit-content proparty ",
+        "answer_1":"Make the font bold",
+        "answer_2":"change the font size",
+        "answer_3":"control on width to fit the content",
+        "answer_4":"mkae the text italic",
+        "right_answer":"control on width to fit the content"
+    },
+    {
+        "titile":"what is the using of font-family proparty ",
+        "answer_1":"Make the font bold",
+        "answer_2":"change the font size",
+        "answer_3":"add a break line",
+        "answer_4":"chose the font look",
+        "right_answer":"chose the font look"
+    },
+    {
+        "titile":"what is the using of nav  tag ",
+        "answer_1":"Make the font bold",
+        "answer_2":"change the font size",
+        "answer_3":"create navigation bar ",
+        "answer_4":"mkae the text italic",
+        "right_answer":"create navigation bar"
+    },
+
+    {
+        "titile":"what is the using of padding proparty ",
+        "answer_1":"Make the font bold",
+        "answer_2":"change the font size",
+        "answer_3":"add a break line",
+        "answer_4":"create spaces inside the element ",
+        "right_answer":"create spaces inside the element"
+    },
+    {
+        "titile":"what the using of background-img property ",
+        "answer_1":"Make the font bold",
+        "answer_2":"create background img ",
+        "answer_3":"add a break line",
+        "answer_4":"mkae the text italic",
+        "right_answer":"create background img "
+    }
+]
